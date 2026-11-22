@@ -1,0 +1,7 @@
+check,count
+rows_before_cleaning,3123
+duplicate_episode_ids_removed,0
+invalid_rating_values_set_missing,0
+invalid_runtime_values_set_missing,0
+rows_removed_missing_essential_fields,4
+rows_after_cleaning,3119
